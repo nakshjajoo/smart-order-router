@@ -1,4 +1,4 @@
-# Quant Developer Work Trial - Smart Order Router Backtest
+# Smart Order Router Backtest
 
 This project implements and backtests a Smart Order Router (SOR) based on the Cont & Kukanov cost model. The system uses Kafka to simulate a real-time stream of market data, which is consumed by a backtesting script that applies the SOR logic, tunes its parameters, and benchmarks it against standard execution strategies.
 
